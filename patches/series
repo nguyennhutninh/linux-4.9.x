@@ -1,0 +1,9 @@
+0001-spidev-Add-a-generic-compatible-id.patch -p1
+0002-dts-Revoke-Beaglebone-i2c2-cape-definitions.patch -p1
+0003-Add-ft5x06-touchscreen-driver.patch -p1
+0004-Remove-jitter-from-ti-touchscreen-driver.patch -p1
+0005-dts-Add-bonegreen-wireless-files.patch -p1
+0006-dts-Add-custom-dts-files.patch -p1
+0007-wlcore-Change-no-NO_RX_BA_SESSION-warnings-to-debug.patch -p1
+0008-Add-dts-for-NewHaven-7-inch-display-cape.patch -p1
+0009-Add-dts-for-4dcape-5-inch-resistive-touch-display.patch -p1
